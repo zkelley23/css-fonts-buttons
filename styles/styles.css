@@ -102,6 +102,10 @@ article img {
     height: 50px;
 }
 
+picture img {
+    width: 100%;
+}
+
 a.button{
     cursor: pointer;
     display: inline-block;
